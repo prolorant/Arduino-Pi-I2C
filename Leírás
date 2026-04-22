@@ -14,3 +14,9 @@ Futtatás:
 		  -Be kell sshzni a Pire!
 		  -Az Arduino kódot futtatni kell az arduinon attól függ melyiket akarod.
 		  -Pin a python kodot futtatni kell és ha sikeres a I2C kapcsolat és az API beállítás akkor kapunk adatot!
+
+Szükséges könyvtárak:
+
+DHT11: DHT sensor library (Adafruit)
+AHT21: Adafruit AHTX0
+BMP180: Adafruit BMP085 Library
