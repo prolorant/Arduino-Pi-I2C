@@ -6,6 +6,8 @@ Bekötés: Közös GND
 		 Arduino: A4 -> Pi Gpio2 Serial Data
 				  A5 -> Pi Gpio4 Serial Clock
 
+Ha az SSH rossz: ssh-keygen -R (ip)
+
 Szerver IP:192.68.64.49 porttal:192.168.64.49:8081
 Adat rögítés: http://192.168.64.49:8081/kelemenlo/sensor/insert_data_apikey.php?api_key=12345678&temperature=25.5&humidity=101325
 Grafikon. http://192.168.64.49:8081/kelemenlo/sensor/display_data.php 
