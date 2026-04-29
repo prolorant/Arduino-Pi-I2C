@@ -11,7 +11,9 @@ AHT21 bekötés: SCL-SCL
 			   SDA-SDA
 			   VCC-3,3V
 
-DHT11 bekötés: 
+DHT11 bekötés: VCC-3,3V
+			   DATA-D4
+			   GND-GND
 
 Router belépés: 192.168.108.1 admin/admin
 
